@@ -1,0 +1,11 @@
+C:\Users\SHAFI\source\repos\hms\hms\bin\Debug\hms.exe.config
+C:\Users\SHAFI\source\repos\hms\hms\bin\Debug\hms.exe
+C:\Users\SHAFI\source\repos\hms\hms\bin\Debug\hms.pdb
+C:\Users\SHAFI\source\repos\hms\hms\obj\Debug\hms.csprojAssemblyReference.cache
+C:\Users\SHAFI\source\repos\hms\hms\obj\Debug\hms.login.resources
+C:\Users\SHAFI\source\repos\hms\hms\obj\Debug\hms.Properties.Resources.resources
+C:\Users\SHAFI\source\repos\hms\hms\obj\Debug\hms.csproj.GenerateResource.cache
+C:\Users\SHAFI\source\repos\hms\hms\obj\Debug\hms.csproj.CoreCompileInputs.cache
+C:\Users\SHAFI\source\repos\hms\hms\obj\Debug\hms.exe
+C:\Users\SHAFI\source\repos\hms\hms\obj\Debug\hms.pdb
+C:\Users\SHAFI\source\repos\hms\hms\obj\Debug\hms.Dashboard.resources
